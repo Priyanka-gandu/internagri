@@ -26,6 +26,8 @@ A Location represention and other details regarding our social media links are a
 
 ![image](https://user-images.githubusercontent.com/109659790/183304897-28d341c9-f943-41b4-9bb8-1b138f67df73.png)
 
+The link to the website is https://agreeable-moss-037a2fa10.1.azurestaticapps.net
+
 
 
 
